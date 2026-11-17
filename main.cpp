@@ -1,12 +1,9 @@
 #include <iostream>
 
-void printMessage()
-{
-    std::cout << "Hello Git!" << std::endl;
-}
-
 int main()
 {
-    printMessage();
+    std::cout << "Hello Git!" << std::endl;
+    std::cout << "Hello Git!" << std::endl;
+    std::cout << "Hello Git!" << std::endl;
     return 0;
 }
