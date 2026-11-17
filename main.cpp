@@ -1,7 +1,8 @@
 #include <iostream>
 
-int printMessage(){
-	std::cout << "Hello Git!" << std::endl;
+void printMessage()
+{
+    std::cout << "Hello Git!" << std::endl;
 }
 
 int main()
